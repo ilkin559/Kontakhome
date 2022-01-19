@@ -1,0 +1,240 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+#menyu .nav-menyu{
+	width: 100%;
+background-color: #253444;
+}
+.nav-menyu li{
+  
+	padding: 0px 12px;
+  color: #Ffff;
+}
+.nav-menyu li:hover{
+ color: red;
+}
+
+.nav-icon i{
+ color: #fff;
+ padding: 0px 8px;
+
+
+}
+.nav-icon i:hover{
+
+	color: red;
+  
+
+}
+
+.nav-logo{
+	width: 100%;
+	height: 88px;
+	background-color: red;
+}
+	.nav-logo img{
+		width: 27%;
+	}
+.logo-1{
+	display: flex;
+   padding: 20px 0px;
+	align-items: center;
+}
+	.logo-1 input{
+		margin-left: 20px;
+		padding: 7px 220px;
+	}
+.logo-1 i{
+	font-size: 25px;
+
+	padding: 4px 6px;
+	color: #ffff;
+}
+ 
+
+
+
+.footto{
+	width: 90%;	
+}
+
+
+
+#carusel{
+	margin: 12px 0px;
+}
+
+
+
+
+.left-menu i{
+	font-size: 20px;
+	padding: 6px 3px;
+
+	border-bottom: 1px solid 	#a29d9de6 ;
+
+}
+
+
+.carrusel{
+	border: 2px solid #a29d9de6
+}
+
+
+.fotolar{
+	padding: 10px 0px;
+}
+
+
+
+.slider{
+	margin: 12px 0;
+}
+.sebet{
+	padding: 2px 9px;
+	background-color: #E3E3E3;
+}
+.sebet:hover{
+	background-color: #FF003C;
+	color: #ffff;
+}
+.teklifler{
+	margin: 12px 0px;
+	padding: 0px  72px;
+	background-color: #E3E3E3;
+}
+.teklifler:hover{
+	background-color: #FF003C;
+	color: #ffff;
+}
+
+
+
+.endirim{
+	width: 100%;
+}
+
+.saat{
+	width: 3%;
+	height:50px;
+	background-color: #89888F;
+}
+
+
+.mehsullar{
+	width: 100%;
+	margin: 20px;
+	border: 2px solid #6a686885;
+
+}
+.mehsull{
+   height: 450px;
+	border: 1px solid #6a686885;
+}
+
+.mehsul2{
+	width: 100%;
+	height: 316px;
+}
+
+
+#mehsul{
+  margin: 20px 0px;
+}
+
+.mellumatlar{
+	text-align: center;
+}
+
+#mehsul button:hover{
+  background-color: red;
+  color: white;
+}
+
+.btt1{
+	background-color: red;
+	color: white;
+}
+.btt2{
+	background-color: #fff;
+	color: black;
+}
+.btt3{
+	margin-left:28px;
+	padding: 6px 17px;
+    border-radius:5px;
+    background-color: #fff;
+    color: black;
+
+}
+
+
+
+
+
+.kontak-tv{
+	width: 100%;
+	background-color:#253444;
+}
+.kontak-tv .fa-tv{
+	 margin: 20px 0px;
+   font-size: 50px;
+   align-items: center;
+   color: #fff;
+}
+.play-button {
+	position: absolute;
+	top: 25%;
+	left: 37%;
+	padding: 17px 22px;
+	width: 80px;
+	height: 80px;
+	background-color: red;
+	border-radius: 50%;
+}
+.video-card .fa-play{
+  color: white;
+}
+
+
+/*footer*/
+.col_white_amrc { color:#FFF;}
+footer { width:100%; background-color:#263238; min-height:250px; padding:10px 0px 25px 0px ;}
+.pt2 { padding-top:40px ; margin-bottom:20px ;}
+footer p { font-size:13px; color:#CCC; padding-bottom:0px; margin-bottom:8px;}
+.mb10 { padding-bottom:15px ;}
+.footer_ul_amrc { margin:0px ; list-style-type:none ; font-size:14px; padding:0px 0px 10px 0px ; }
+.footer_ul_amrc li {padding:0px 0px 5px 0px;}
+.footer_ul_amrc li a{ color:#CCC;}
+.footer_ul_amrc li a:hover{ color:#fff; text-decoration:none;}
+.fleft { float:left;}
+.padding-right { padding-right:10px; }
+
+.footer_ul2_amrc {margin:0px; list-style-type:none; padding:0px;}
+.footer_ul2_amrc li p { display:table; }
+.footer_ul2_amrc li a:hover { text-decoration:none;}
+.footer_ul2_amrc li i { margin-top:5px;}
+
+.bottom_border { border-bottom:1px solid #323f45; padding-bottom:20px;}
+.foote_bottom_ul_amrc {
+	list-style-type:none;
+	padding:0px;
+	display:table;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+}
+.foote_bottom_ul_amrc li { display:inline;}
+.foote_bottom_ul_amrc li a { color:#999; margin:0 12px;}
+
+.social_footer_ul { display:table; margin:15px auto 0 auto; list-style-type:none;  }
+.social_footer_ul li { padding-left:20px; padding-top:10px; float:left; }
+.social_footer_ul li a { color:#CCC; border:1px solid #CCC; padding:8px;border-radius:50%;}
+.social_footer_ul li i {  width:20px; height:20px; text-align:center;}
+.video-card {
+	position: relative;
+}
